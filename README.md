@@ -1,6 +1,6 @@
 # Elona+ CGX: Putit Edition
 
-A small jokingly project based on the 2.05fix version of Elona+ cgx. All it does is adding a new god <Putit of Slimes> and some items to make the god playable and somewhat enjoyable. I'll post the source code as soon as I'm done with it, so feel free to copy and use it in your own projects.
+A small jokingly project based on the 2.08fix version of Elona+ cgx. All it does is adding a new god <Putit of Slimes> and some items to make the god playable and somewhat enjoyable. I'll post the source code as soon as I'm done with it, so feel free to copy and use it in your own projects.
 
 # Putit of Slimes
 
