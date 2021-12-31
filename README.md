@@ -1,8 +1,10 @@
 # Elona+ CGX: Putit Edition
 
-# planned
+A small jokingly project based on the 2.05fix version of Elona+ cgx. All it does is adding a new god <Putit of Slimes> and some items to make the god playable and somewhat enjoyable. I'll post the source code as soon as I'm done with it, so feel free to copy and use it in your own projects.
 
-Learning, Constitution and Willpower, evasion, some resistances buffs, also gives an unique trait called "spongy" which raises your Defence(scales to favor) upon praying. 
+# <Putit of Slimes>
+
+Effects: Learning, Constitution, Willpower, evasion and some resistances get buffs, also gives an unique trait called "spongy" which raises your Defence(scales to favor). 
 
 Acceptable offers: corpses, cloaks, girdles, cargoes of rag doll, cargoes of noble toy
 
